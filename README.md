@@ -1,2 +1,3 @@
 # amazon_sales_data_analysis
- The Amazon Sales Data Analysis project using SQL involves analyzing large sales datasets to identify trends, customer behavior, and product performance. Key tasks include querying databases, performing aggregations, filtering data, and generating insights on top-selling products, revenue growth, and demographics
+ 
+The Amazon Sales Data Analysis project utilizes SQL to analyze large sales datasets, uncovering trends, customer behavior, and product performance. The project involves writing SQL queries to extract key sales metrics, perform data aggregations, and filter data by various dimensions. Insights generated include top-selling products, revenue growth patterns, and customer demographics, providing valuable business intelligence
